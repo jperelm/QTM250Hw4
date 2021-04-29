@@ -23,7 +23,7 @@ Please check our repo for the code and read the README to enable the Translate A
 ![](https://github.com/jperelm/QTM250Hw4/blob/main/images/gpic1.PNG)
 
 
-**3) Select  “+ Credit Credentials” and select “API key” from the drop down **
+**3) Select  “+ Credit Credentials” and select “API key” from the drop down**
 ![](https://github.com/jperelm/QTM250Hw4/blob/main/images/gpic3.PNG)
 
 
