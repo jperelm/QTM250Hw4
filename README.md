@@ -1,6 +1,12 @@
 # QTM250Hw4
-This is our group's submission for the fourth homework assignment in QTM 250 (Spring '21)
+Authors: 
 
+
+This is our group's submission for the fourth homework assignment in QTM 250 (Spring '21). 
+
+In this project......
+
+Please check our repo for the code and read the README to enable the Translate API. If you click here, you will be taken to our narrative hosted as a website!
 
 
 ### Steps to replicate analysis
