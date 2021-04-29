@@ -7,7 +7,7 @@ Throughout history, linguists and translators have put thousands of hours of wor
 
 However, these translations are not always perfect. The images above show translations-gone-wrong when t-shirt designers attempted to translate from their native language to English. Though these images are comical, they make us ponder the accuracy of such machine learning translators.
 
-Using the Google Translate machine learning API (insert link), we will assess the accuracy of the translator by translating 3 sentences of various difficulties from English to six languages, then back to English again. 
+Using the [Google Cloud Translation machine learning API](https://cloud.google.com/translate), we will assess the accuracy of the translator by translating 3 sentences of various difficulties from English to six languages, then back to English again. 
 
 Please check our repo for the code and read the README to enable the Translate API. If you click [here](www.google.com), you will be taken to our narrative hosted as a website! Additionally, our [architecture diagram](https://github.com/jperelm/QTM250Hw4/blob/main/ArchDiagram.PNG) can also be found in our repo. 
 
