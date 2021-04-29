@@ -1,10 +1,16 @@
 # QTM250Hw4
-Authors: 
+Authors: Jai Arora, Becky Cloud, Emily Edwards, Megan Johnston, Riya Mehta, Jason Perelman
 
 
 This is our group's submission for the fourth homework assignment in QTM 250 (Spring '21). 
 
-In this project......
+Language is a major part of human communication and sets us apart from every other species on the planet. According to Ethnologue, there are over 7,000 languages spoken in the world today (“How Many Languages Are There in the World?”). 
+
+Throughout history, linguists and translators have put thousands of hours of work into translating from one language to another in order to connect people across the globe and improve communication between countries and cultures. Luckily for us living in 2021, we live in a world where machines are able to translate text or speech from one language to another in milliseconds. 
+
+However, these translations are not always perfect. The images above show translations-gone-wrong when t-shirt designers attempted to translate from their native language to English. Though these images are comical, they make us ponder the accuracy of such machine learning translators.
+
+Using the Google Translate machine learning API (insert link), we will assess the accuracy of the translator by translating 3 sentences of various difficulties from English to six languages, then back to English again. 
 
 Please check our repo for the code and read the README to enable the Translate API. If you click here, you will be taken to our narrative hosted as a website! Additionally, our architecture diagram can also be found in our repo. 
 
