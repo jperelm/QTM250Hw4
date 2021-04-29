@@ -1,7 +1,7 @@
 # QTM250Hw4
 Authors: Jai Arora, Becky Cloud, Emily Edwards, Megan Johnston, Riya Mehta, Jason Perelman
 
-Language is a major part of human communication and sets us apart from every other species on the planet. According to Ethnologue, there are over 7,000 languages spoken in the world today (“How Many Languages Are There in the World?”). 
+Language is a major part of human communication and sets us apart from every other species on the planet. According to Ethnologue, there are over [7,000 languages spoken in the world today.](https://www.ethnologue.com/guides/how-many-languages)
 
 Throughout history, linguists and translators have put thousands of hours of work into translating from one language to another in order to connect people across the globe and improve communication between countries and cultures. Luckily for us living in 2021, we live in a world where machines are able to translate text or speech from one language to another in milliseconds. 
 
